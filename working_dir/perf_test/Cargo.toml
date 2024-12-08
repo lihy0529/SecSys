@@ -1,0 +1,10 @@
+[package]
+name = "wasmtime_perf_test"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+wasmtime = "27.0.0"
+wasmtime-wasi = "27.0.0"
+anyhow = "1.0"
+wasi-common = "27.0.0"

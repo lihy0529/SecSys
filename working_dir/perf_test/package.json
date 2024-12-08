@@ -1,0 +1,16 @@
+{
+  "name": "perf_test",
+  "version": "1.0.0",
+  "main": "perf_test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@wasmer/wasi": "^1.2.2",
+    "wasmtime": "^0.0.2"
+  }
+}

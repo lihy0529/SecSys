@@ -1,0 +1,14 @@
+api_key.secret
+
+# folder with WAVM files
+WAVM/
+
+# folder with compiled files
+wasmtime/
+wabt/
+
+node_modules/
+emsdk/
+*.txt
+
+target/

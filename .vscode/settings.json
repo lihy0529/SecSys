@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.y": "bison",
+        "*.l": "lex",
+        "*.def": "cpp",
+        "time.h": "c",
+        "wasmtime.h": "c",
+        "wasm.h": "c"
+    }
+}
